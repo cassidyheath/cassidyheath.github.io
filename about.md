@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-![](/images/profilepic.jpg)
+<img src="/images/profilepic.jpg" height="400" width="500">
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi! 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+My name is Cassidy. I am a Software Engineer who recently graduated from Virginia Tech. 
+I love movies, books, and all things Harry Potter. My day isn't complete without
+a good cup of coffee and a nice walk with my 3-month-old standard poodle, Margo. 
